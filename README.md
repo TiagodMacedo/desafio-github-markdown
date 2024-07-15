@@ -8,9 +8,9 @@ Agora é a sua hora de brilhar e construir um perfil de destaque na DIO!
 2. criar um repostorio nomeado desafio-github-markdown ✅
 3. utilizar o Git.dev para editar seu projeto ✅
 4. O repositorio deve ser publico ✅
-5. adicionar um colaborador ao seu repositorio
-6. ambos devem fazer um clone em suar marquina 
-7. realisar alteracoes / commits / abrir issues e pull requests 
+5. adicionar um colaborador ao seu repositorio✅
+6. ambos devem fazer um clone em suar marquina ✅
+7. realisar alteracoes / commits / abrir issues e pull requests ✅
 8. editar o arquivo README.md✅
 9. ultilizar a linguagem markdown para  formatar  informacoes sobre o desafio. ✅
     
