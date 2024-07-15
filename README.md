@@ -13,7 +13,7 @@ Agora é a sua hora de brilhar e construir um perfil de destaque na DIO!
 7. realisar alteracoes / commits / abrir issues e pull requests ✅
 8. editar o arquivo README.md✅
 9. ultilizar a linguagem markdown para  formatar  informacoes sobre o desafio. ✅
-    
+10. New Branch ✅
 -Dica: Se o expert forneceu um repositório Github, você pode dar um "fork" no repositório dele para organizar suas alterações e evoluções mantendo uma referência direta ao código-fonte original.
 
 ## Repositório Git
